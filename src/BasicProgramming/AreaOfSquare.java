@@ -11,3 +11,4 @@ public class AreaOfSquare {
         System.out.println(side * side);
     }
 }
+// End
