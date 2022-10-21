@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class PrintInput {
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
-        byte n = sc.nextInt();
+        byte n = sc.nextByte();
         System.out.println(n);
     }
 }
