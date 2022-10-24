@@ -1,6 +1,7 @@
 package Arrays;
 
 import java.util.Scanner;
+// Question URL: https://my.newtonschool.co/playground/code/v5ufvkowvyzj/
 // Start
 public class NoXor {
     public static void main(String[] args) {
