@@ -16,7 +16,7 @@ public class DTriplets {
 
         Arrays.sort(arr);
         int i = 0, j = i+2;
-        int count = 0;
+        long count = 0;
 
        while (j < n) {
            while (j < n && arr[j] - arr[i] <= x) {
