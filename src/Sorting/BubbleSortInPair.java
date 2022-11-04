@@ -16,7 +16,7 @@ public Pair(int x, int y)
 }
 */
 
-static Pair[] SortPair(Pair arr[], int n)  {
+/*static Pair[] SortPair(Pair arr[], int n)  {
         for (int i = 0; i < arr.length-1; i++) {
         for (int j = 0; j < n-i-1; j++) {
         // swaping
@@ -38,4 +38,4 @@ static Pair[] SortPair(Pair arr[], int n)  {
         }
 
 
-// End
+// End*/
